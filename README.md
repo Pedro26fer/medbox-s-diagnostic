@@ -1,1 +1,1 @@
-# medbox-s-diagn-tic
+# medbox-s-diagnostic
